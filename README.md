@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aqitech
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning vue.js and Laravel
-- 📫 How to reach me aqitech99@gmail.com
+- 👀 I’m interested in ....
+- 🌱 I’m currently learning ....
+- 📫 How to reach me .....
 
 <!---
 Aqitech/Aqitech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
